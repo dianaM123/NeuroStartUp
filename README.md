@@ -1,2 +1,2 @@
-# NeuroStartUp
+# Neuro
 самостоятельное задание
